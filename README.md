@@ -4,6 +4,8 @@
 
 I care about software you can trust: results tested against honest benchmarks, safety checks enforced in code, and READMEs that say what works and what doesn't yet.
 
+[![Email](https://img.shields.io/badge/Email-briangigz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:briangigz@gmail.com)
+
 <!-- LinkedIn: replace YOUR-LINKEDIN with your profile name and remove these comment markers
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 -->
@@ -34,4 +36,4 @@ A browser demo of the permission model from CITUS: an AI agent can't run a capab
 
 ---
 
-📫 Open to software development roles. Feel free to reach out.
+📫 Open to software development roles. Reach me at **[briangigz@gmail.com](mailto:briangigz@gmail.com)**.
