@@ -33,3 +33,22 @@ A browser demo of the permission model from CITUS: an AI agent can't run a capab
 ---
 
 📫 Open to software development roles. Reach me at **[briangigz@gmail.com](mailto:briangigz@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/brian-jerry-kangethe-1333621a3/)**.
+
+<details>
+<summary>🇩🇪 <b>Auf Deutsch</b></summary>
+
+<br>
+
+**Softwareentwickler** mit Fokus auf Python-Systeme, die mit Live-Daten arbeiten: Tools für Trading-Research, KI-Agenten und Echtzeit-Dashboards.
+
+Mir ist Software wichtig, der man vertrauen kann: Ergebnisse, die ehrlich gegen Benchmarks getestet werden, Sicherheitsprüfungen direkt im Code und READMEs, die klar sagen, was funktioniert und was noch nicht.
+
+**Ausgewählte Projekte**
+
+- **[vibe-trading-local](https://github.com/BrianGigz1/vibe-trading-local)**: Python-Plattform für Trading-Research und Paper-Trading mit ereignisbasiertem Backtester, Out-of-Sample-Validierung gegen Overfitting, Faktorforschung für Aktien und Krypto, deterministischen Risikokontrollen und einem Live-Dashboard mit FastAPI. Bewusst nur Simulation.
+- **[CITUS Capability Console](https://briangigz1.github.io/citus-console-demo/)**: interaktive Browser-Demo des Berechtigungsmodells von CITUS: Ein KI-Agent darf eine Funktion erst ausführen, nachdem ein Mensch sie freigegeben hat.
+- **Private Projekte** (auf Anfrage gerne in einer Vorführung): CITUS (lokale Intelligence-Plattform mit 3D-Globus und Live-Datenfeeds), J.A.R.V.I.S. (Multi-Agenten-Assistent mit MCP und Rust-Supervisor), quant-harness (Walk-Forward-Tests und Portfoliorisiko).
+
+📫 Offen für Stellen in der Softwareentwicklung. Kontakt: **[briangigz@gmail.com](mailto:briangigz@gmail.com)** oder **[LinkedIn](https://www.linkedin.com/in/brian-jerry-kangethe-1333621a3/)**.
+
+</details>
